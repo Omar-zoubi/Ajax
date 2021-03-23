@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(194, 186, 186);
+}
+p {
+font-family: 'Roboto Condensed', sans-serif;font-size: 20px;
+width: 300px;
+padding-left: 10px;
+font-size: 25px;
+  }
+  
+footer {
+  background-color: rgb(41, 38, 38);
+  height: 75px;
+  color: rgb(152, 170, 170);
+  text-align: center;
+  line-height: 75px;
+  }
